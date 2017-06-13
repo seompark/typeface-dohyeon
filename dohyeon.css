@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "BM DoHyeon";
+  src: url("./fonts/BMDOHYEONttf.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/BMDOHYEONttf.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/BMDOHYEONttf.woff2") format("woff2"), /* Modern Browsers */
+    url("./fonts/BMDOHYEONttf.woff") format("woff"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

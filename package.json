@@ -1,6 +1,6 @@
 {
   "name": "typeface-dohyeon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A hangul font created by woowahan.",
   "main": "dohyeon.css",
   "scripts": {

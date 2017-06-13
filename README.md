@@ -9,11 +9,11 @@ npm install --save typeface-dohyeon
 
 ### On module bundler(webpack)
 ```
-import 'dohyeon.css'
+import 'fontface-dohyeon'
 ```
 or
 ```
-require('dohyeon.css')
+require('fontface-dohyeon')
 ```
 
 then..
